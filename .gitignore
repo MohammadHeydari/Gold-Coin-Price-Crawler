@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/# created by virtualenv automatically
+.venv/Lib
+.idea
+data/*.csv
