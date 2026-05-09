@@ -82,6 +82,8 @@ def plot():
     plt.xticks(rotation=45)
     plt.tight_layout()
 
+    plt.savefig("visualization/output/chart.png", dpi=150)
+
     plt.show()
 
 
